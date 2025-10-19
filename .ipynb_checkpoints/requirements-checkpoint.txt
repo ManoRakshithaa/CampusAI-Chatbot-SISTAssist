@@ -1,0 +1,6 @@
+# Core AI library
+google-generativeai
+
+# For running the Jupyter Notebook environment
+notebook
+ipykernel
