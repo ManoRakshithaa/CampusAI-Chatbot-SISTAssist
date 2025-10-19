@@ -8,17 +8,23 @@ Sathyabama Assist is a conversational AI chatbot designed to provide students wi
 
 ---
 
-### ## 🎯 The Problem
+### 🎯 The Problem: Navigating the Information Maze
 
-Finding specific campus information—like library hours, club details, or administrative procedures—can be a hassle. Information is often scattered across different websites, portals, and notice boards, leading to confusion and wasted time for students.
+As a student at Sathyabama Institute, I experienced firsthand how challenging it can be to find quick answers to simple campus questions. Key information is often spread across:
 
-### ## ✨ The Solution
+* Multiple university websites and student portals.
+* Physical notice boards with potentially outdated information.
+* Word-of-mouth from seniors, which isn't always reliable.
+
+This "information maze" leads to wasted time and unnecessary frustration for new and existing students alike. I built this project to solve that exact problem.
+
+### ✨ The Solution
 
 This chatbot serves as a centralized, 24/7 source of information. By leveraging the power of a Large Language Model (LLM) and strategic **Prompt Engineering**, Sathyabama Assist can understand and answer student queries in a natural, conversational way.
 
 ---
 
-### ## 📸 Key Features in Action
+### 📸 Key Features in Action
 
 **Clean Startup & Ready for Questions:**
 ![Bot Startup](bot-startup.png)
@@ -28,7 +34,7 @@ This chatbot serves as a centralized, 24/7 source of information. By leveraging 
 
 ---
 
-### ## ✅ Core Features
+### Core Features
 
 -   **Instant Answers:** Provides immediate responses to questions about campus locations, timings, clubs, and FAQs.
 -   **Rule-Based Behavior:** Engineered with a strict set of rules to stay on topic and avoid generating incorrect information.
@@ -37,7 +43,7 @@ This chatbot serves as a centralized, 24/7 source of information. By leveraging 
 
 ---
 
-### ## 🛠️ Tech Stack & Skills Demonstrated
+### 🛠️ Tech Stack & Skills Demonstrated
 
 -   **Backend:** Python
 -   **AI Model:** Google Gemini (`models/gemini-pro-latest`)
@@ -47,7 +53,7 @@ This chatbot serves as a centralized, 24/7 source of information. By leveraging 
 
 ---
 
-### ## 🚀 How to Run This Project
+### How do you run this Project?
 
 1.  **Clone the Repository:**
     ```bash
