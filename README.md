@@ -8,17 +8,17 @@ Sathyabama Assist is a conversational AI chatbot designed to provide students wi
 
 ---
 
-### ## 🎯 The Problem
+### 🎯 The Problem
 
 Finding specific campus information—like library hours, club details, or administrative procedures—can be a hassle. Information is often scattered across different websites, portals, and notice boards, leading to confusion and wasted time for students.
 
-### ## ✨ The Solution
+### ✨ The Solution
 
 This chatbot serves as a centralized, 24/7 source of information. By leveraging the power of a Large Language Model (LLM) and strategic **Prompt Engineering**, Sathyabama Assist can understand and answer student queries in a natural, conversational way.
 
 ---
 
-### ## 📸 Key Features in Action
+### 📸 Key Features in Action
 
 **Clean Startup & Ready for Questions:**
 ![Bot Startup](bot-startup.png)
@@ -28,7 +28,7 @@ This chatbot serves as a centralized, 24/7 source of information. By leveraging 
 
 ---
 
-### ## ✅ Core Features
+### ✅ Core Features
 
 -   **Instant Answers:** Provides immediate responses to questions about campus locations, timings, clubs, and FAQs.
 -   **Rule-Based Behavior:** Engineered with a strict set of rules to stay on topic and avoid generating incorrect information.
@@ -37,7 +37,7 @@ This chatbot serves as a centralized, 24/7 source of information. By leveraging 
 
 ---
 
-### ## 🛠️ Tech Stack & Skills Demonstrated
+### 🛠️ Tech Stack & Skills Demonstrated
 
 -   **Backend:** Python
 -   **AI Model:** Google Gemini (`models/gemini-pro-latest`)
@@ -47,7 +47,7 @@ This chatbot serves as a centralized, 24/7 source of information. By leveraging 
 
 ---
 
-### ## 🚀 How to Run This Project
+### 🚀 How to Run This Project
 
 1.  **Clone the Repository:**
     ```bash
