@@ -8,9 +8,15 @@ Sathyabama Assist is a conversational AI chatbot designed to provide students wi
 
 ---
 
-### 🎯 The Problem
+### 🎯 The Problem: Navigating the Information Maze
 
-Finding specific campus information—like library hours, club details, or administrative procedures—can be a hassle. Information is often scattered across different websites, portals, and notice boards, leading to confusion and wasted time for students.
+As a student at Sathyabama Institute, I experienced firsthand how challenging it can be to find quick answers to simple campus questions. Key information is often spread across:
+
+* Multiple university websites and student portals.
+* Physical notice boards with potentially outdated information.
+* Word-of-mouth from seniors, which isn't always reliable.
+
+This "information maze" leads to wasted time and unnecessary frustration for new and existing students alike. I built this project to solve that exact problem.
 
 ### ✨ The Solution
 
