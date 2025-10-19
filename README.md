@@ -34,7 +34,7 @@ This chatbot serves as a centralized, 24/7 source of information. By leveraging 
 
 ---
 
-### ✅ Core Features
+### Core Features
 
 -   **Instant Answers:** Provides immediate responses to questions about campus locations, timings, clubs, and FAQs.
 -   **Rule-Based Behavior:** Engineered with a strict set of rules to stay on topic and avoid generating incorrect information.
@@ -53,7 +53,7 @@ This chatbot serves as a centralized, 24/7 source of information. By leveraging 
 
 ---
 
-### 🚀 How to Run This Project
+### How do you run this Project?
 
 1.  **Clone the Repository:**
     ```bash
